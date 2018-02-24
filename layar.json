@@ -5,7 +5,7 @@
     {"actions": [{
           "contentType": "text/html",
           "label": "Foto 1: Mercado Benito Juarez",
-          "uri": "https://raw.githubusercontent.com/DianaLazaroA/Layar/master/mercado.jpg"
+          "uri": "https://raw.githubusercontent.com/DianaLazaroA/Layar/master/mercado1.jpg"
         }
       ],
       "anchor": {
@@ -15,7 +15,7 @@
         }
       },
       "icon": {
-        "url": "https://raw.githubusercontent.com/DianaLazaroA/Layar/master/mercado.jpg"
+        "url": "https://raw.githubusercontent.com/DianaLazaroA/Layar/master/mercado1.jpg"
       },
       "id": 1,
       "text": {
